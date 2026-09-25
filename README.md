@@ -8,7 +8,7 @@
 
 ## 🚀 Live Demo
 
-**[Launch Nivara →](PASTE_YOUR_GOOGLE_AI_STUDIO_URL_HERE)**
+**[Launch Nivara →](https://nivara-socioeconomic-intelligence-pla-9915.ai.studio)**
 
 ## Overview
 
